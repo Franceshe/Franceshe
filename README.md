@@ -2,6 +2,9 @@
 ## Now building:
 * Building/Operating Now: A software to decrease entropy
 * Twitter: @siyunhe2
+* Current Interests: Building data intensive applications to empower recruting and meaningful
+dataflow.
+
 ## Some ideas I'm looking to see built or build myself:
 * Software to decrease asymmetric information
 * Knowledge engine 
