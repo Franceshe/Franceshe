@@ -4,8 +4,7 @@
 * Twitter: @siyunhe2
 * Current Interests: 
    -Building data intensive applications and meaningful
-dataflow.
-   -safely & securely share AI data while preserving privacy. 
+dataflow && safely & securely share AI data while preserving privacy. 
 
 # Some great Challenges I'd love to help to solve
 *  [14 Grand Challenges](http://www.engineeringchallenges.org/cms/challenges.aspx) for Engineering in the 21st Century identified by National Academy of Engineering, which to some extent represent the "biggest pains" that we are facing in the 21st century。
