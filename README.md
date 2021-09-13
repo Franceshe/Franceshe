@@ -2,8 +2,7 @@
 ## Now building:
 * Building/Operating Now: A software to decrease entropy
 * Twitter: @siyunhe2
-* Current Interests: 
-   -Building data intensive applications and meaningful
+* Current Interests: Building data intensive applications and meaningful
 dataflow && safely & securely share AI data while preserving privacy. 
 
 # Some great Challenges I'd love to help to solve
